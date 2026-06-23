@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366F1,100:10B981&text=Tahir%20Ali%20Cengiz&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Cloud%20%26%20AI%20Infrastructure%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="Tahir Ali Cengiz — Cloud & AI Infrastructure Architect" width="100%">
-
+<h1 align="center">Tahir Ali Cengiz</h1>
+<p align="center"><b>Cloud &amp; AI Infrastructure Architect · Virtualization · Hybrid Cloud</b></p>
 <p align="center">
   <a href="https://tr.linkedin.com/in/tahircengiz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://tahircengiz.github.io/LLMScale/"><img src="https://img.shields.io/badge/LLMScale-6366F1?logo=googlechrome&logoColor=white" alt="LLMScale"></a>
@@ -80,9 +80,6 @@
 
 ### Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahircengiz&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=10b981&text_color=8b9bff&hide=contribs" alt="GitHub stats" height="160">
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahircengiz&bg_color=00000000&color=8b9bff&line=6366f1&point=10b981&area=true&hide_border=true" alt="Contribution graph" width="100%">
 </p>
