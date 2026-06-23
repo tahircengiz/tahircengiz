@@ -1,7 +1,8 @@
 <h1 align="center">Tahir Ali Cengiz</h1>
-<p align="center"><b>Cloud &amp; Infrastructure Architect · Virtualization · Hybrid Cloud</b></p>
+<p align="center"><b>Cloud &amp; AI Infrastructure Architect · Virtualization · Hybrid Cloud</b></p>
 <p align="center">
   <a href="https://tr.linkedin.com/in/tahircengiz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tahircengiz.github.io/LLMScale/"><img src="https://img.shields.io/badge/LLMScale-6366F1?logo=googlechrome&logoColor=white" alt="LLMScale"></a>
   <a href="mailto:tahircengiz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -9,14 +10,20 @@
 
 ### Hakkımda
 
-Kurumsal **cloud** ve **infrastructure** mimarisi üzerine çalışan bir altyapı uzmanıyım.
-**Hybrid / multi-cloud** (AWS · Azure), **virtualization** (VMware), **Huawei Cloud Stack (HCS)**
-ve **Windows Server / Microsoft** ekosistemi üzerinde uçtan uca **tasarım, kurulum ve operasyon**.
-On yılı aşkın kurumsal IT deneyimi — sektör sertifikalarıyla destekli.
+Kurumsal **cloud** ve **infrastructure** mimarisi üzerine on yılı aşkın deneyimi olan bir altyapı mimarıyım.
+**Hybrid / multi-cloud** (AWS · Azure), **virtualization** (VMware), **Huawei Cloud Stack (HCS)** ve
+**Windows Server / Microsoft** ekosistemi üzerinde uçtan uca **tasarım, kurulum ve operasyon** yürütüyorum.
+
+Son dönemde odağımda **AI infrastructure & operations** var — GPU altyapısı, **LLM serving** ve kendi
+**homelab**'imde (Docker · Traefik · Tailscale) self-hosting. Fikirleri **vibe coding** ile (AI-assisted)
+hızlıca çalışan ürünlere dönüştürüyorum; [**LLMScale**](https://tahircengiz.github.io/LLMScale/) bunlardan biri.
+
+İş dışında **3D printing** ile uğraşıyorum.
 
 ### Areas of Expertise
 
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-1F2937?logoColor=white)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-76B900?logo=nvidia&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
@@ -28,6 +35,9 @@ On yılı aşkın kurumsal IT deneyimi — sektör sertifikalarıyla destekli.
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
 
 ### Certifications
+
+**AI Infrastructure**
+- NVIDIA — AI Infrastructure and Operations
 
 **Cloud Architecture**
 - AWS Certified Solutions Architect – **Professional**
@@ -52,3 +62,7 @@ On yılı aşkın kurumsal IT deneyimi — sektör sertifikalarıyla destekli.
 
 **IT Service Management**
 - ITIL® Foundation
+
+---
+
+<p align="center"><sub>Also into: <b>Vibe coding</b> (AI-assisted building) · <b>3D printing</b></sub></p>
