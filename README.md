@@ -46,3 +46,4 @@ Arka planımda kurumsal IT: **Active Directory**, **Azure** ve **PowerShell** ot
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft365&logoColor=white)
+
