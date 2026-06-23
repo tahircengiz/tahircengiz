@@ -8,10 +8,10 @@
 
 ---
 
-### Focus &amp; Training
+### Current Focus
 
-- 🚀 **GPU PaaS** — GPU Platform-as-a-Service: AI infrastructure, **LLM serving** ve MIG partitioning *(güncel odak)*
-- 📚 **NVIDIA — AI Infrastructure and Operations** *(eğitim)*
+- 🚀 **GPU PaaS** — GPU Platform-as-a-Service: AI infrastructure, **LLM serving** ve MIG partitioning
+- 🧠 **NVIDIA — AI Infrastructure and Operations**
 
 ### Areas of Expertise
 
@@ -30,6 +30,13 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-2563EB?logoColor=white)
 ![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-0EA5E9?logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
+
+### Interests
+
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-6366F1?logo=anthropic&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-F97316?logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=white)
+![Shapr3D](https://img.shields.io/badge/Shapr3D-0B0B0C?logo=shapr3d&logoColor=white)
 
 ### Certifications
 
@@ -56,13 +63,6 @@
 
 **IT Service Management**
 - ITIL® Foundation
-
-### Interests
-
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-6366F1?logo=anthropic&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-F97316?logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=white)
-![Shapr3D](https://img.shields.io/badge/Shapr3D-0B0B0C?logo=shapr3d&logoColor=white)
 
 ### Activity
 
