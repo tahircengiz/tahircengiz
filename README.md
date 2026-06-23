@@ -68,11 +68,11 @@
 
 ### Homelab
 
-Kendi **homelab**'imde üretim-benzeri bir ortam çalıştırıyorum:
-
-- **Docker** üzerinde servisler, **Traefik** reverse proxy ardında
-- **Tailscale** mesh ile güvenli, sıfır-açık-port erişim
-- **GPU** node — **LLM serving** ve **MIG** ile deneyler
+**GTR9 Pro** *(AZW / Beelink)* — kişisel AI & self-hosting node
+- **APU:** AMD Ryzen AI MAX+ 395 (Strix Halo · 16C/32T) + Radeon 8060S iGPU
+- **Memory:** 64 GB unified — local **LLM serving** için ideal
+- **Storage:** Crucial P310 2 TB + Kingston NV2 1 TB NVMe · 5.5 TB bulk
+- **OS:** Ubuntu 24.04 LTS — Docker · Traefik · Tailscale
 
 ### Activity
 
