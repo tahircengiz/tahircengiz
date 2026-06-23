@@ -8,10 +8,16 @@
 
 ---
 
+### Focus &amp; Training
+
+- 🚀 **GPU PaaS** — GPU Platform-as-a-Service: AI infrastructure, **LLM serving** ve MIG partitioning *(güncel odak)*
+- 📚 **NVIDIA — AI Infrastructure and Operations** *(eğitim)*
+
 ### Areas of Expertise
 
+![GPU PaaS](https://img.shields.io/badge/GPU%20PaaS-76B900?logo=nvidia&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-1F2937?logoColor=white)
-![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-76B900?logo=nvidia&logoColor=white)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-7C3AED?logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
@@ -23,9 +29,6 @@
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
 
 ### Certifications
-
-**AI Infrastructure**
-- NVIDIA — AI Infrastructure and Operations
 
 **Cloud Architecture**
 - AWS Certified Solutions Architect – **Professional**
