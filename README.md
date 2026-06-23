@@ -15,20 +15,41 @@
 
 ### Areas of Expertise
 
-![GPU PaaS](https://img.shields.io/badge/GPU%20PaaS-76B900?logo=nvidia&logoColor=white)
+**Cloud & Architecture**
+
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-1F2937?logoColor=white)
-![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-7C3AED?logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-CF0A2C?logo=huawei&logoColor=white)
 ![Huawei Cloud Stack](https://img.shields.io/badge/Huawei%20Cloud%20Stack-9A0A1F?logo=huawei&logoColor=white)
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-0EA5E9?logoColor=white)
+
+**AI / GPU**
+
+![GPU PaaS](https://img.shields.io/badge/GPU%20PaaS-76B900?logo=nvidia&logoColor=white)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-7C3AED?logoColor=white)
+![AMD ROCm](https://img.shields.io/badge/AMD%20ROCm-ED1C24?logo=amd&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-5B21B6?logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-0F172A?logo=openwebui&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1E40AF?logoColor=white)
+
+**Platform & Virtualization**
+
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
+![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft365&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-2563EB?logoColor=white)
-![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-0EA5E9?logoColor=white)
+
+**Ops & Networking**
+
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
 
 ### Interests
