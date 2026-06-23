@@ -8,18 +8,6 @@
 
 ---
 
-### Hakkımda
-
-Kurumsal **cloud** ve **infrastructure** mimarisi üzerine on yılı aşkın deneyimi olan bir altyapı mimarıyım.
-**Hybrid / multi-cloud** (AWS · Azure), **virtualization** (VMware), **Huawei Cloud Stack (HCS)** ve
-**Windows Server / Microsoft** ekosistemi üzerinde uçtan uca **tasarım, kurulum ve operasyon** yürütüyorum.
-
-Son dönemde odağımda **AI infrastructure & operations** var — GPU altyapısı, **LLM serving** ve kendi
-**homelab**'imde (Docker · Traefik · Tailscale) self-hosting. Fikirleri **vibe coding** ile (AI-assisted)
-hızlıca çalışan ürünlere dönüştürüyorum; [**LLMScale**](https://tahircengiz.github.io/LLMScale/) bunlardan biri.
-
-İş dışında **3D printing** ile uğraşıyorum.
-
 ### Areas of Expertise
 
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-1F2937?logoColor=white)
