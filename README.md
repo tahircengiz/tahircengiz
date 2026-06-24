@@ -52,6 +52,11 @@
 ![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
 
+**Home Automation**
+
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee&logoColor=white)
+
 ### Interests
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-6366F1?logo=anthropic&logoColor=white)
@@ -94,7 +99,7 @@
 | **GTR9** | Beelink GTR9 · Ryzen AI MAX+ 395 (16C/32T) · 64 GB unified · Radeon 8060S (ROCm) · Ubuntu 24.04 | AI & Docker host |
 | **X570** | ASUS TUF X570 · Ryzen 5 5600X · 64 GB DDR4 · **RTX 4070 Ti 12 GB** · Win / Linux dual-boot | Gaming + AI tests |
 | **SER9** | Beelink SER9 · Ryzen 7 255 (8C/16T) · 64 GB · Radeon 780M · Win 11 IoT LTSC | Media PC |
-| **Maxtang** | Maxtang Mini PC · Proxmox VE | Virtualization host |
+| **Maxtang** | Maxtang Mini PC · Proxmox VE | Virtualization · Home Assistant |
 | **MacBook Pro** | Apple M3 Pro · macOS | Daily driver |
 | **Router** | ASUS · AsusWRT-Merlin | Gateway · DNS |
 | **Bambu Lab P1S** | FDM 3D printer | 3D printing |
