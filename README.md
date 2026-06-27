@@ -64,34 +64,6 @@
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-0B0B0C?logo=shapr3d&logoColor=white)
 
-### Certifications
-
-<sub>🔗 Linked certifications are verifiable on Credly.</sub>
-
-**Cloud Architecture**
-- [AWS Certified Solutions Architect – **Professional**](https://www.credly.com/badges/50fa7164-64c6-4d5b-aa2d-7645a10e75a8)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/8d4c8a04-ceb4-4f31-8c00-97203d188ead)
-- [Microsoft Certified: **Azure Solutions Architect Expert**](https://www.credly.com/badges/cde58c54-cb11-494b-b352-1589cb798d5b)
-- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/f5ed1462-d83e-4222-b0e6-1a24a12ae47c)
-- Microsoft Certified: DevOps Engineer Expert
-- [Microsoft Certified: Cybersecurity Architect Expert](https://www.credly.com/badges/7c4bcc3d-ce70-4fa9-ab4b-df25995b5985)
-
-**Microsoft · Windows Server**
-- [Microsoft Certified: Windows Server Hybrid Administrator Associate](https://www.credly.com/badges/4d38a940-ea41-4990-9df1-b3ac773fdb49)
-- [Microsoft 365 Certified: **Enterprise Administrator Expert**](https://www.credly.com/badges/39fd1b55-3b7a-46ee-9c73-57072ba7ec8d)
-- MCSE: Cloud Platform and Infrastructure
-- MCSE: Server Infrastructure · MCSA: Windows Server 2012
-- MCSE: Messaging · MCSE: Productivity
-
-**Virtualization**
-- [VMware Certified Professional 6.5 – **Data Center Virtualization** (VCP6.5-DCV)](https://www.credly.com/badges/b455ca38-2ce4-44b7-ac60-9caf37fe4448)
-- [VMware Certified Professional 6 – **Network Virtualization** (VCP6-NV)](https://www.credly.com/badges/017dbc80-e5bc-4f43-b144-013c5343899d)
-- VMware vRealize Automation — Install, Configure, Manage
-- NAKIVO Technical Solutions Professional
-
-**IT Service Management**
-- ITIL® Foundation
-
 ### Homelab
 
 | Device | Hardware | Role |
