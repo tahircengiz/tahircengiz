@@ -41,6 +41,7 @@
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft365&logoColor=white)
 
@@ -49,7 +50,6 @@
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-12B886?logoColor=white)
 
 **Home Automation**
@@ -63,18 +63,6 @@
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-F97316?logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?logo=bambulab&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-0B0B0C?logo=shapr3d&logoColor=white)
-
-### Homelab
-
-| Device | Hardware | Role |
-|---|---|---|
-| **GTR9** | Beelink GTR9 · Ryzen AI MAX+ 395 (16C/32T) · 64 GB unified · Radeon 8060S (ROCm) · Ubuntu 24.04 | AI & Docker host |
-| **X570** | ASUS TUF X570 · Ryzen 5 5600X · 64 GB DDR4 · **RTX 4070 Ti 12 GB** · Win / Linux dual-boot | Gaming + AI tests |
-| **SER9** | Beelink SER9 · Ryzen 7 255 (8C/16T) · 64 GB · Radeon 780M · Win 11 IoT LTSC | Media PC |
-| **Maxtang** | Maxtang Mini PC · Proxmox VE | Virtualization · Home Assistant |
-| **MacBook Pro** | Apple M3 Pro · macOS | Daily driver |
-| **Router** | ASUS · AsusWRT-Merlin | Gateway · DNS |
-| **Bambu Lab P1S** | FDM 3D printer | 3D printing |
 
 ### Activity
 
