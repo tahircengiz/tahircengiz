@@ -31,7 +31,7 @@ and only becomes a repo once it survives being used.
 |---|---|
 | **[grafana-dashboards](https://github.com/tahircengiz/grafana-dashboards)** | Is the LLM gateway healthy, and if not, is the fault in the client, the gateway, or the model backend? Grafana + Prometheus boards for LiteLLM and vLLM. |
 | **[LLM-Inference-Toolkit](https://github.com/tahircengiz/LLM-Inference-Toolkit)** | Is this OpenAI-compatible endpoint up, correct and fast — asked from a jump host where you cannot `pip install` anything. TTFT, p95, embedding sanity checks. |
-| **[LLMScale](https://tahircengiz.github.io/LLMScale/)** | How much GPU memory does a model actually need, once you account for what `params × 2` misses? Client-side, no account, no backend. |
+| **[LLMScale](https://github.com/tahircengiz/LLMScale)** | How much GPU memory does a model actually need, once you account for what `params × 2` misses? Client-side, no account, no backend. [Try it](https://tahircengiz.github.io/LLMScale/). |
 | **[MedAlarm](https://github.com/tahircengiz/MedAlarm)** | A medication reminder that keeps working with the network off. Android, fully offline, ad-free, free. |
 | **[gestHero](https://github.com/tahircengiz/gestHero)** | Mouse gestures for Chromium browsers, with no build step to install. |
 | **[youtubeQS](https://github.com/tahircengiz/youtubeQS)** | Is this video worth the click? A 0–100 score on the thumbnail, from public metrics. |
