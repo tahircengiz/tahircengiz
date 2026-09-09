@@ -1,6 +1,6 @@
 <img src="profile.svg" width="100%" alt="Tahir Cengiz — Cloud & AI Infrastructure Architect · GPU PaaS · NVIDIA AI Infrastructure & Operations. Expertise across cloud (AWS, Azure, Oracle, Huawei), Microsoft infrastructure (Windows Server, Active Directory, Exchange, Failover Cluster), AI/GPU (NVIDIA, ROCm, vLLM, Ollama, LiteLLM), platform & virtualization (Kubernetes, Docker, Proxmox, Veeam), ops & networking (Tailscale, Prometheus, Grafana, Traefik) and home automation.">
 
-<h1 align="center">Tahir Cengiz</h1>
+<h1 align="center">Tahir Ali Cengiz</h1>
 
 <p align="center">
   <b>Cloud &amp; AI Infrastructure Architect</b> · İstanbul<br>
