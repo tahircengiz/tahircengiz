@@ -47,7 +47,3 @@ and only becomes a repo once it survives being used.
 **Ops** — Prometheus, Grafana, Loki, Traefik, Tailscale, ITIL
 
 **Elsewhere** — Home Assistant and Zigbee at home, Shapr3D and a Bambu Lab printer when the problem is physical.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahircengiz&bg_color=00000000&color=8b9bff&line=6366f1&point=10b981&area=true&hide_border=true" alt="Contribution graph" width="100%">
-</p>
